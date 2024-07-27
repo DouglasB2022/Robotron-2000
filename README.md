@@ -6,6 +6,7 @@ O que aprendi:
 Desenvolvi os primeiros passos do projeto Robotron 2000;
 O que é o DOM (Document Object Model);
 Manipular elementos no DOM.
+
 Aula 02: Interagindo com uma página
 O que aprendi:
 
@@ -13,6 +14,7 @@ Selecionar um ou mais elementos com querySelector()/querySelectorAll();
 Utilizar o método addEventListener();
 Definir as diferenças entre função anônima e função;
 Comportamento de hoisting no JavaScript;
+
 Aula 03: Montando uma peça
 O que aprendi:
 
@@ -31,7 +33,7 @@ O que aprendi:
 O que são objetos e analisamos métodos para manipulá-los;
 Refatorar o código do projeto, aprendendo como manipular arrays e utilizando forEach;
 
-🔧Ferramentas:
+Ferramentas:
 Ferramentas utilizadas para auxiliar na execução do projeto:
 
 Visual Studio Code - editor de código
