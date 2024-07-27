@@ -1,4 +1,5 @@
 #Robotron-2000 🤖
+
 Aula 01: JavaScript para Web
 O que aprendi:
 
@@ -29,6 +30,7 @@ O que aprendi:
 
 O que são objetos e analisamos métodos para manipulá-los;
 Refatorar o código do projeto, aprendendo como manipular arrays e utilizando forEach;
+
 🔧Ferramentas:
 Ferramentas utilizadas para auxiliar na execução do projeto:
 
